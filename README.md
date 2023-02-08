@@ -1,2 +1,3 @@
 # user-authentication-api
-Aplicando o Estilo Arquitetural REST com Node.js
+Applying Architectural REST with Node.js/TS
+Performing user authentication.
